@@ -6,6 +6,9 @@ public class AnonymousMain {
 
     public static void main(String[] args) {
         log.info("checking");
+        India ind=new India();
+        ind.g.SayHello();
     }
+
 
 }
